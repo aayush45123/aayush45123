@@ -1,6 +1,6 @@
 # Aayush Bharda
 
-B.Tech student in Artificial Intelligence & Data Science at K. J. Somaiya Institute of Technology, Mumbai (CGPA: 9.2). Interested in data analytics, BI, and full-stack development — I like working on the full path from raw data to a usable dashboard or application.
+B.Tech student in Artificial Intelligence & Data Science at K. J. Somaiya Institute of Technology, Mumbai (CGPA: 9.29). Interested in data analytics, BI, and full-stack development — I like working on the full path from raw data to a usable dashboard or application.
 
 **Focus areas:** Data Analytics · Power BI · SQL · Python · MERN Stack
 **Status:** Graduating 2027 · Open to internships
