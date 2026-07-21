@@ -1,6 +1,6 @@
 # Aayush Bharda
 
-B.Tech student in Artificial Intelligence & Data Science at K. J. Somaiya Institute of Technology, Mumbai (CGPA: 9.29). Interested in data analytics, BI, and full-stack development — I like working on the full path from raw data to a usable dashboard or application.
+B.Tech student in Artificial Intelligence & Data Science at K. J. Somaiya Institute of Technology, Mumbai (CGPA: 9.29/10). Interested in data analytics, BI, and full-stack development — I like working on the full path from raw data to a usable dashboard or application.
 
 **Focus areas:** Data Analytics · Power BI · SQL · Python · MERN Stack
 **Status:** Graduating 2027 · Open to internships
@@ -9,11 +9,11 @@ B.Tech student in Artificial Intelligence & Data Science at K. J. Somaiya Instit
 
 ## Projects
 
-**[Cricket Match Intelligence System]([https://github.com/aayush45123/REPO-NAME-HERE](https://github.com/aayush45123/Cricket-Intelligence))**
+**[Cricket Match Intelligence System](https://github.com/aayush45123/Cricket-Intelligence)**
 A full-stack cricket analytics platform that turns match and player data into performance insights — team comparisons, leaderboards, player stats, and match-intensity metrics.
 `React` `Node.js` `Express` `MongoDB`
 
-**[AI Habit Tracker]([https://github.com/aayush45123/REPO-NAME-HERE](https://github.com/aayush45123/Ai-Habit-Tracker))** · [Live Demo]([https://your-live-demo-link-here](https://ai-habit-tracker-eb72.vercel.app)
+**[AI Habit Tracker](https://github.com/aayush45123/Ai-Habit-Tracker)** · [Live Demo](https://ai-habit-tracker-eb72.vercel.app)
 A habit-tracking web app with streaks, a 21-day challenge system, and progress analytics, built with full authentication and persistent user data.
 `React` `Node.js` `Express` `MongoDB`
 
@@ -47,4 +47,4 @@ A habit-tracking web app with streaks, a 21-day challenge system, and progress a
 Advanced Power BI and dashboard design, and strengthening SQL and DSA fundamentals.
 
 ## Get in touch
-LinkedIn: [Aayush Bharda](https://linkedin.com/in/) · Email available on request
+LinkedIn: [Aayush Bharda](https://linkedin.com/in/)
