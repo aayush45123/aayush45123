@@ -9,11 +9,11 @@ B.Tech student in Artificial Intelligence & Data Science at K. J. Somaiya Instit
 
 ## Projects
 
-**[Cricket Match Intelligence System](https://github.com/aayush45123/REPO-NAME-HERE)**
+**[Cricket Match Intelligence System]([https://github.com/aayush45123/REPO-NAME-HERE](https://github.com/aayush45123/Cricket-Intelligence))**
 A full-stack cricket analytics platform that turns match and player data into performance insights — team comparisons, leaderboards, player stats, and match-intensity metrics.
 `React` `Node.js` `Express` `MongoDB`
 
-**[AI Habit Tracker](https://github.com/aayush45123/REPO-NAME-HERE)** · [Live Demo](https://your-live-demo-link-here)
+**[AI Habit Tracker]([https://github.com/aayush45123/REPO-NAME-HERE](https://github.com/aayush45123/Ai-Habit-Tracker))** · [Live Demo]([https://your-live-demo-link-here](https://ai-habit-tracker-eb72.vercel.app)
 A habit-tracking web app with streaks, a 21-day challenge system, and progress analytics, built with full authentication and persistent user data.
 `React` `Node.js` `Express` `MongoDB`
 
